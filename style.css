@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+   background-color: #34495e;
+	height: 50px;
+}
+main{
+    background-color: #f8f8f8;
+	height: 600px;
+}
+
+footer{
+    background-color: #bdc3c7;
+	height: 200px;
+}
+body{
+    margin: 0;
+}
+
+section{
+    width: 700px;
+    margin:0 auto;
+}
+.top{
+    Background-color: #e66060;
+	Height: 50px;
+	border-bottom-left-radius: 12px;
+	border-bottom-right-radius: 12px;
+	margin-bottom: 20px;
+	}
+
+.middle{
+    background-color: white;
+	Height: 500px;
+	padding: 10px;
+	border:10px ridge coral;
+    
+}
+
+.bottom{
+    background-color: brown;
+	height: 130px;
+}
+
+.banner{
+    float: left;
+    height: 130px;
+    background-color:skyblue;
+    width: 70%;
+}
+.search{
+    float: left;
+    height:130px;
+    background-color:purple;
+    width:30%;
+}
